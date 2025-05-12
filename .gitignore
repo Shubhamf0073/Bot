@@ -179,4 +179,4 @@ cython_debug/
 
 /instructions.txt
 /build
-/.vscode
+# /.vscode
